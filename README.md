@@ -1,6 +1,7 @@
 # git-demo
 
 demo-feature
+demo-feature-2
 
 ## Project setup
 ```
